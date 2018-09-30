@@ -192,4 +192,4 @@ set $urgent-bg-color     #E53935
 
 new_window 1pixel
 
-bindsym $mod+Shift+w qutebrowser
+bindsym $mod+Shift+w exec qutebrowser
